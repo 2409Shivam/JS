@@ -14,3 +14,5 @@
 // console.log(typeof {name:"abc"}); //object
 // console.log(typeof null); //object
 
+// let a = null;
+// console.log(a); //null
